@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Opanjr\\LoginManagement\\Config\\DatabaseTest::testGetConnection":8,"Opanjr\\LoginManagement\\Config\\DatabaseTest::testGetConnectionSingleton":8},"times":{"Opanjr\\LoginManagement\\Config\\DatabaseTest::testGetConnection":5.306,"Opanjr\\LoginManagement\\Config\\DatabaseTest::testGetConnectionSingleton":4.099}}

@@ -1,0 +1,15 @@
+1. plow registrasi:
+   dengan membuat data user dengan membuat model directory domainnya
+   sebagai reperesentasi table di database.
+
+untuk model sendiri nanti akan merepresentasikan dari reguest dan respon untuk webnya.
+
+2. membuat repository untuk detail logic berhubungan dengan database
+
+3. membuat repo service untuk menyimpan semua logic
+   untuk melakukan registrasi
+   dan membuat repo model untuk menampung request user registrasi setelah itu membuat
+   model baru untuk return value dari request user yaitu user response, setelah registrasi kembalikan data usernya.
+
+4. membuat repo exception untuk menghendle error
+5. membuat data transaction untuk melakukan operasi kedatabase
